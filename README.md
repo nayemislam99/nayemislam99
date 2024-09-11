@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nayem Islam</h1>
-<h3 align="center">I am a full stack web developer & I am very passionate about learning new technology.</h3>
+<h3 align="center">"I am a full stack web developer with a passion for learning new technologies and continuously expanding my skill set."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayemislam99&label=Profile%20views&color=0e75b6&style=flat" alt="nayemislam99" /> </p>
 
