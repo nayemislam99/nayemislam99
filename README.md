@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayemislam99&label=Profile%20views&color=0e75b6&style=flat" alt="nayemislam99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayemislam99" alt="nayemislam99" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
-- 🔭 I’m currently working on [codebase6](https://barabdonline.xyz/)
+- 🔭 I’m currently working on [ehishab](https://ehishab.com/)
 
 - 💬 Ask me about **react, next, express, next, laravel**
 
