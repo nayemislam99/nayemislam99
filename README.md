@@ -4,8 +4,6 @@
 
 Our primary specialization is **Point of Sale (POS) software development**, where we deliver fully custom-built systems designed from scratch to meet real-world business requirements.
 
-Website: https://metroitsolution.com/
-
 ---
 
 ## Core Product
