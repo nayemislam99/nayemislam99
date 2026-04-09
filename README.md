@@ -38,7 +38,8 @@ Hi 👋 I'm a passionate Full Stack Developer focused on building scalable, secu
 
 - ERP & VAT Management Systems  
 - Hospital Management Systems  
-- E-commerce Platforms  
+- E-commerce Platforms
+- Pos Software
 - Business Automation Software  
 
 ---
